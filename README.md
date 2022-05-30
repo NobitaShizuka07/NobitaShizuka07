@@ -1,4 +1,11 @@
-class Nobita():
+Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs
+ᴠɪsɪᴛᴏʀs
+--> 
+
+hr.gif
+
+ ᴀʙᴏᴜᴛ ᴍᴇ
+CLASS NOBITA():
     def __init__(self):
         self.name = ['Nobita']
         self.country = ['India']
@@ -24,3 +31,17 @@ class Nobita():
         return [
             'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
         ]
+ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
+ 
+
+hr.gif
+
+connect.gif
+ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ
+   
+
+hr.gif
+
+songs.gif
+ ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ
+Nobita Spotify
