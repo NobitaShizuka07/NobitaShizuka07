@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @NobitaShizuka07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NobitaShizuka07/NobitaShizuka07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class Nobita():
+    def __init__(self):
+        self.name = ['Nobita']
+        self.country = ['India']
+        self.language = ['हिंदी', 'English']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML', 'CSS'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker','Heroku',
+            'MongoDB', 'MySQL', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
+        ]
